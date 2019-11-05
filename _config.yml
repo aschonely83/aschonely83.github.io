@@ -1,11 +1,11 @@
 # Site settings
 author: Adam Schonely
-title: 
+title: My Journey Into Coding
 header-img: img/home-bg.png
 email: aschonely@gmail.com
 copyright_name: Adam Schonely
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures In Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aschonely83
